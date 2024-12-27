@@ -18,9 +18,9 @@
 <a href="https://whatsapp.com/dl/   yoh+𝐆𝐨𝐥𝐝𝐟𝐢𝐬𝐡⸼"><img title="𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐂𝐡𝐚𝐧𝐧𝐞𝐥" src="https://whatsapp.com/channel/0029Vb16LZ14tRrucAIa471m?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/for/Samue-l1/Black-Mamba-Ai?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Black-Mamba-Ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://github.com/kinara-ops/GOLDFISH-AI/blob/main/README.md"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Samue-l1/Black-Mamba-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Samue-l1/Black-Mamba-Ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/kinara-ops/GOLDFISH-AI/blob/main/README.md"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
  
  𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 𝐕𝐈𝐀 𝐓𝐇𝐄 𝐋𝐈𝐍𝐊 𝐁𝐄𝐋𝐎𝐖 + 𝐘𝐎𝐔𝐑 𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊 𝐀𝐅𝐓𝐄𝐑 𝐘𝐎𝐔 𝐇𝐀𝐕𝐄 𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐅𝐈𝐋𝐄 𝐓𝐎 "𝐊𝐢𝐧𝐚𝐫𝐚-𝐨𝐩𝐬" 𝐅𝐎𝐋𝐃𝐄𝐑.
@@ -46,12 +46,6 @@ You will need an openai API key for AI features to work.
 
 # SET-UP
 
-[Linking/Pairing](https://classic-v3-session.onrender.com/pair)
-
-
-## ` Pair On render`
-
-[Linking/Pairing](https://classic-v3-session.onrender.com/pair)
 
 
 
@@ -63,7 +57,7 @@ You will need an openai API key for AI features to work.
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Samue-l1/Classic-Ai/fork)
+- Fork this repo by tapping  [here](https://github.com/kinara-ops/GOLDFISH-AI/blob/main/README.md)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -80,14 +74,14 @@ You will need an openai API key for AI features to work.
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254742491666) via WhatsApp or [here](samuelcircute@gmail.com) via Email.
+Incase you're facing any problems with rhe deployments, contact me  [here](https://whatsapp.com/dl/254113634286) via WhatsApp or [here](https://telegram.org/dl) via Telegram.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
 
 ## License
 
-[MIT License](https://github.com/Samue-l1/Black-Mamba-Ai/blob/main/LICENSE)
+[MIT License](      blob/main/LICENSE)
 
 Copyright (c) 2024  𝐆𝐎𝐋𝐃𝐅𝐈𝐒𝐇
 
