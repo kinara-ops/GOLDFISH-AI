@@ -1,11 +1,11 @@
-const sessionName = "dreaded1";
+const sessionName = "Kinarabots";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈';
+let botname = process.env.BOTNAME || 'GOLDFISH-AI';
 
-const owner = process.env.DEV || '254742491666'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '254113634286'; // This will send a notification once the bot reconnects
 const {
-  default: dreadedConnect,
+  default: KinaraConnect,
   useMultiFileAuthState,
   DisconnectReason,
   fetchLatestBaileysVersion,
@@ -25,8 +25,8 @@ const figlet = require("figlet");
 const packname = process.env.STICKER_PACKNAME;
 const _ = require("lodash");
 const PhoneNumber = require("awesome-phonenumber");
-const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/dreadexif'); 
- const { isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/dreadfunc');
+const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/kinaraif'); 
+ const { isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/kinarafunc');
 const store = makeInMemoryStore({ logger: pino().child({ level: "silent", stream: "store" }) });
 
     const autoviewstatus = process.env.AUTOVIEW_STATUS || 'TRUE';
@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("Classic-ai", {
+      figlet.textSync("Goldfish-ai", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -164,7 +164,7 @@ async function startHisoka() {
   const client = dreadedConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["CHATGPT - DREADED", "Safari", "5.1.7"],
+    browser: ["CHATGPT - KINARA", "Safari", "5.1.7"],
     auth: state,
 syncFullHistory: true,
   });
@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟  \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${𝐆𝐎𝐋𝐃𝐅𝐈𝐒𝐇-𝐀𝐈}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐾𝑖𝑛𝑎𝑟𝑎 𝑀𝑎𝑟𝑘 \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
@@ -202,7 +202,7 @@ if (autobio === 'TRUE'){
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
       
       m = smsg(client, mek, store);
-      const dreaded = require("./dreaded");
+      const 𝐤𝐢𝐧𝐚𝐫𝐚 = require("./𝐤𝐢𝐧𝐚𝐫𝐚");
 dreaded(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
