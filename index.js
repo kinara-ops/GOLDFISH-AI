@@ -161,7 +161,7 @@ async function startHisoka() {
     )
   );
 
-  const client = dreadedConnect({
+  const client = 𝐊𝐢𝐧𝐚𝐫𝐚Connect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
     browser: ["CHATGPT - KINARA", "Safari", "5.1.7"],
