@@ -4,18 +4,18 @@
   </p>
   
 <p align="center">
-<img src="https://telegra.ph/file/de1e1073b8a908e9af1d6.jpg" width="650" height="500"/>
+<img src="https://whatsapp.com/channel/0029Vb16LZ14tRrucAIa471m" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=CLASSIC+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐆𝐎𝐋𝐃𝐅𝐈𝐒𝐇+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CLASSIV_CLASSIC-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐆𝐎𝐋𝐃𝐅𝐈𝐒𝐇_𝐆𝐎𝐋𝐃𝐅𝐈𝐒𝐇-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/+254703542294yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/244703542294yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+classic'?color=green&style=flat-square"></a>
+<a href="'https://whatsapp.com/dl/  yoh+𝐆𝐎𝐋𝐃𝐅𝐈𝐒𝐇⸼ +nishow+venye+nitadeploy+𝐆𝐨𝐥𝐝𝐟𝐢𝐬𝐡-ai'"><img title="Whatsapp" src="'https://wa.me/244703542294yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+𝐆𝐨𝐥𝐝𝐟𝐢𝐬𝐡'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/254742491666yohyoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
+<a href="https://whatsapp.com/dl/   yoh+𝐆𝐨𝐥𝐝𝐟𝐢𝐬𝐡⸼"><img title="𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐂𝐡𝐚𝐧𝐧𝐞𝐥" src="https://whatsapp.com/channel/0029Vb16LZ14tRrucAIa471m?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/for/Samue-l1/Black-Mamba-Ai?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
@@ -89,5 +89,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Samue-l1/Black-Mamba-Ai/blob/main/LICENSE)
 
-Copyright (c) 2024  𝐂𝐋𝐀𝐒𝐒𝐈𝐂
+Copyright (c) 2024  𝐆𝐎𝐋𝐃𝐅𝐈𝐒𝐇
 
