@@ -4,7 +4,7 @@
   </p>
   
 <p align="center">
-<img src="https://whatsapp.com/channel/0029Vb16LZ14tRrucAIa471m" width="650" height="500"/>
+<img src=  " width="650" height="500"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐆𝐎𝐋𝐃𝐅𝐈𝐒𝐇+WHATSAPP+BOT" alt="">
